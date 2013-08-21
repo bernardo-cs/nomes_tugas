@@ -15,11 +15,11 @@ Está disponivel no rubygems.org:
     $ gem install aiss
 
 ## Utilização
-#Vai retornar "male":
+#### Vai retornar "male":
 	NomesTugas.identify_gender "Bernardo" 
-#Vai retornar "Female":
+#### Vai retornar "Female":
 	NomesTugas.identify_gender "Madalena" 
-#Vai retornar "not_sure":
+#### Vai retornar "not_sure":
 	NomesTugas.identify_gender "badjoras" 
 
 ## Sobre
