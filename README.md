@@ -12,7 +12,7 @@
 
 Está disponivel no rubygems.org:
 
-    $ gem install aiss
+    $ gem install nomes_tugas
 
 ## Utilização
 #### Vai retornar "male":
